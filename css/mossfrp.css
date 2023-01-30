@@ -549,6 +549,8 @@ header
 
 .header-area.header-sticky .logo {
   margin-top: 25px;
+  letter-spacing: 5px;
+  font-size: 20px;
 }
 
 .header-area.header-sticky .nav {
